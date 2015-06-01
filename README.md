@@ -1,0 +1,2 @@
+# AndroidPlayground
+Experimenting with Android Studio and exploring the basics of Android development. This is what I've been playing with post graduation. I'm interested in fine-tuning my Java skills while exploring a new platform. Though I will probably not go into Android development, it's a fun hobby and a good skill to have. I'm also looking into some open-source projects now that I have the spare time.
